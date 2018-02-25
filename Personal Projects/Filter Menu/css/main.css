@@ -1,0 +1,7 @@
+.container {
+  background-image: url("/Users/mitchthornton/Google Drive/Career/Programming/Web Development/Personal Projects/Filter Menu/assets/header_img.jpeg")  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
