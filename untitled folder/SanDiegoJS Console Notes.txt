@@ -1,0 +1,45 @@
+SanDiegoJS.slack
+#FundamentalJS
+
+SDJS
+
+
+// Console Commands
+
+assert()
+// Wires an error message to the console if the assertion is false. If the assertion is true,  nothing happens.
+
+console.assert(document.querySelector("body'))
+
+
+count()
+// Logs the number of times that this particular call to count() has been called. This function takes an optional argument label.
+
+for(i=0; i < 1-; i++){
+console.count();
+}
+
+clear()
+// Clears the console
+
+
+dir()
+// Displays an interactive list of the properties of the specified Jabascript object. The output is presented as a hierachiacal listing with disclosure triangles that let you see the contents of child objects.
+
+var event={name: 'Fundamental JS'};
+console.dir();
+console.talbe();
+
+error()
+// Outputs an error message to the Web Console.
+console.error('sos help');
+
+group()
+Creates a new inline group in the Web Console log. This indents ollowing console messages by an additional level, until console.groupEnd() is called.
+
+groupEnd()
+
+info()
+
+console.log('test', event)
+// Adds the label "test" onto the event console log
